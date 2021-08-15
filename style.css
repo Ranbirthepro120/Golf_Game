@@ -1,0 +1,29 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background-color: cyan;
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background:url(Grass.jpg);
+	background-size:contain;
+}
+
+
+#htg{
+	color:limegreen;
+	background-color:#f5f5f5;
+	font-family:fantasy;
+	width: fit-content;
+	font-size: 40px;
+}
+
+
+hole_obj
+{
+	height: 50px;
+	width: 50px;
+}
